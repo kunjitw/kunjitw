@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **occultationtw/occultationtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 嗨 那裡 👋
 那年我22歲，剛從名門大學畢業。
 
 畢業典禮那天，櫻花樹下的微風輕拂著我的臉龐，仿佛在祝福我即將展開的嶄新人生。大學四年裡，我不僅成績優異，還在校園中積累了許多珍貴的友情。特別是那位在圖書館偶遇的少女——鈴木美咲，總是默默地支持著我。畢業後，我順利進入了一家知名的科技公司，成為了一名工程師。
