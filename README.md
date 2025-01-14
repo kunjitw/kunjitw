@@ -1,7 +1,7 @@
 <!-- Hi there -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <b>Hi there, I'm KunJi </b>
+  <b></b>
 </h1>
 
 <br>
@@ -21,14 +21,17 @@
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 <div align="center">
-  <h3> About Me</h3>
   <p>
-    2
+    <a href="https://is1ab.com/">NTUT is1ab</a>
+  </p>
+  <p>
+    <a href="https://kunji.tw/posts/category/cybersecurity/writeup/">CTF writeup</a>
   </p>
 </div>
 <p align="center">
 </p>
 
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 <div align="center">
   <h3> You can find me on </h3>
