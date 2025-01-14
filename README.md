@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## test
 [![website](./img/globe-dark.svg)](https://kunji.tw)
 
-<h1><b>嗨 這裡，我是</b><a href="https://github.com/KunJitw">KunJi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><b>嗨 這裡，我是</b><a href="https://github.com/KunJitw">KunJi</a>.</h1>
 那年我22歲，剛從名門大學畢業。\
 畢業典禮那天，櫻花樹下的微風輕拂著我的臉龐，仿佛在祝福我即將展開的嶄新人生。大學四年裡，我不僅成績優異，還在校園中積累了許多珍貴的友情。特別是那位在圖書館偶遇的少女——鈴木美咲，總是默默地支持著我。畢業後，我順利進入了一家知名的科技公司，成為了一名工程師。
 
