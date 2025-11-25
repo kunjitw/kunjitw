@@ -5,11 +5,11 @@
 </h1>
 
 <br>
-
+<!-- 
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/kunjitw/count.svg">
 </div>
-
+-->
 <!-- about me -->
 <br>
 
