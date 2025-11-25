@@ -20,25 +20,24 @@
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
+
 <div align="center">
   <p>
     <a href="https://is1ab.com/">NTUT is1ab</a>
-  </p>
-  <p>
-    <a href="https://kunji.tw/posts/category/cybersecurity/writeup/">CTF writeup</a>
   </p>
 </div>
 <p align="center">
 </p>
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
-
+<!-- 
 <div align="center">
   <h3> You can find me on </h3>
     <a href="mailto:zer2.main@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
     <a href="https://www.facebook.com/KunJi.Li.tw"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
     <a href="https://www.instagram.com/lee.kunji"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
 </div>
+-->
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
